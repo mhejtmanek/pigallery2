@@ -20,7 +20,7 @@ app-gallery-lightbox-photo {
   top: 0;
   width: 100%; /* Full width */
   height: 100%; /* Full height */
-  background-color: black;
+  background-color: white;
   transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   -ms-transition: all 0.2s ease-in-out;
